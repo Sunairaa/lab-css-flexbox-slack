@@ -159,11 +159,6 @@ h1,h2,h3 {
         flex-direction: column;
         padding: 1rem;
     }
-
-    /* .footer-link-section > div {
-        flex-grow: 1;
-    } */
-
     .footer-link-section > div > img {
         width: 20%;
         margin-left: 20px;
@@ -254,8 +249,6 @@ Small Screen (961px > width > 767px)
 
     header {
         margin: 3.5rem 1rem;
-        /* display: flex;
-        flex-direction: column; */
     }
 
     header > h1 {
